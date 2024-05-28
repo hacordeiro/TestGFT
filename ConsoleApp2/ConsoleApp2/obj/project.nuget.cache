@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0IBSxrnJZJj+wrlbi60/+ZpqyJByj7+fYff8a1JHe1E3HvgUbweuxahip1/P25uXzk48rgIjy4kvbDAAmSsGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hacas\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hacas\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\hacas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

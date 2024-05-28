@@ -1,0 +1,9 @@
+C:\Users\hacas\source\repos\ConsoleApp2\Dto\bin\Debug\netcoreapp3.1\Dto.deps.json
+C:\Users\hacas\source\repos\ConsoleApp2\Dto\bin\Debug\netcoreapp3.1\Dto.dll
+C:\Users\hacas\source\repos\ConsoleApp2\Dto\bin\Debug\netcoreapp3.1\Dto.pdb
+C:\Users\hacas\source\repos\ConsoleApp2\Dto\obj\Debug\netcoreapp3.1\Dto.csprojAssemblyReference.cache
+C:\Users\hacas\source\repos\ConsoleApp2\Dto\obj\Debug\netcoreapp3.1\Dto.csproj.CoreCompileInputs.cache
+C:\Users\hacas\source\repos\ConsoleApp2\Dto\obj\Debug\netcoreapp3.1\Dto.AssemblyInfoInputs.cache
+C:\Users\hacas\source\repos\ConsoleApp2\Dto\obj\Debug\netcoreapp3.1\Dto.AssemblyInfo.cs
+C:\Users\hacas\source\repos\ConsoleApp2\Dto\obj\Debug\netcoreapp3.1\Dto.dll
+C:\Users\hacas\source\repos\ConsoleApp2\Dto\obj\Debug\netcoreapp3.1\Dto.pdb
